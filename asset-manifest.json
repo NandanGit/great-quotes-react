@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/great-quotes-react/static/css/main.0ed30e04.chunk.css",
-    "main.js": "/great-quotes-react/static/js/main.8271d25e.chunk.js",
-    "main.js.map": "/great-quotes-react/static/js/main.8271d25e.chunk.js.map",
+    "main.css": "/great-quotes-react/static/css/main.53e193a1.chunk.css",
+    "main.js": "/great-quotes-react/static/js/main.6894d2cf.chunk.js",
+    "main.js.map": "/great-quotes-react/static/js/main.6894d2cf.chunk.js.map",
     "runtime-main.js": "/great-quotes-react/static/js/runtime-main.e0b1368f.js",
     "runtime-main.js.map": "/great-quotes-react/static/js/runtime-main.e0b1368f.js.map",
-    "static/js/2.e2b68d1b.chunk.js": "/great-quotes-react/static/js/2.e2b68d1b.chunk.js",
-    "static/js/2.e2b68d1b.chunk.js.map": "/great-quotes-react/static/js/2.e2b68d1b.chunk.js.map",
+    "static/js/2.3c46dfb0.chunk.js": "/great-quotes-react/static/js/2.3c46dfb0.chunk.js",
+    "static/js/2.3c46dfb0.chunk.js.map": "/great-quotes-react/static/js/2.3c46dfb0.chunk.js.map",
     "index.html": "/great-quotes-react/index.html",
-    "static/css/main.0ed30e04.chunk.css.map": "/great-quotes-react/static/css/main.0ed30e04.chunk.css.map",
-    "static/js/2.e2b68d1b.chunk.js.LICENSE.txt": "/great-quotes-react/static/js/2.e2b68d1b.chunk.js.LICENSE.txt"
+    "static/css/main.53e193a1.chunk.css.map": "/great-quotes-react/static/css/main.53e193a1.chunk.css.map",
+    "static/js/2.3c46dfb0.chunk.js.LICENSE.txt": "/great-quotes-react/static/js/2.3c46dfb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e0b1368f.js",
-    "static/js/2.e2b68d1b.chunk.js",
-    "static/css/main.0ed30e04.chunk.css",
-    "static/js/main.8271d25e.chunk.js"
+    "static/js/2.3c46dfb0.chunk.js",
+    "static/css/main.53e193a1.chunk.css",
+    "static/js/main.6894d2cf.chunk.js"
   ]
 }
